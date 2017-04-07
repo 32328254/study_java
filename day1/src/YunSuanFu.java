@@ -1,17 +1,34 @@
-import javax.management.openmbean.SimpleType;
 
 /**
  * Created by liuhaoran1 on 2017/4/7.
  */
 public class YunSuanFu {
-    public static void main(String[] args){
+    public static void main(String[] args) {
+        int a =3;
+        int b =4;
+        String str;
+        if (a<b){
+            str ="a<b";
+        }
+        else{
+            str = "a>b";
+        }
+        System.out.println(str);
+
+        String s = (a<b)?"a<b":"a>b";
+        System.out.println(s);
+        /*
+        String str = "hello";
+        String h = "world";
+        String q = "_";
+        System.out.println(str + q + h); //字符串拼接
+
         int a = 8;
         int b = 4;
         System.out.println(a&b); //与
         System.out.println(a|b); //或
         System.out.println(~a); //取反
-        //System.out.println(^a);
-        /*
+        System.out.println(b^a); //异或
         int a = 1;
         int b = 2;
         int c = a + b; //加
@@ -57,5 +74,4 @@ public class YunSuanFu {
         System.out.println(d);
         */
     }
-
 }
