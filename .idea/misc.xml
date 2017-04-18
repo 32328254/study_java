@@ -43,6 +43,7 @@
       <list>
         <option value="$PROJECT_DIR$/jstrom/pom.xml" />
         <option value="$PROJECT_DIR$/day2/pom.xml" />
+        <option value="$PROJECT_DIR$/OOP/pom.xml" />
       </list>
     </option>
   </component>
