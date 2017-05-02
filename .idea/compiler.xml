@@ -13,8 +13,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="day1" target="1.8" />
-      <module name="day2" target="1.6" />
-      <module name="OOP" target="1.6" />
+      <module name="day2" target="1.5" />
+      <module name="OOP" target="1.5" />
       <module name="performance-test-jstrom" target="1.7" />
       <module name="study_java" target="1.8" />
     </bytecodeTargetLevel>

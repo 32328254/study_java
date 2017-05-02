@@ -11,5 +11,6 @@ public class Number {  //创建Number类
         System.out.print("plase input second name:");
         String name2 = scanner.next();
         System.out.println(name1 + " and " + name2);  //输出
+        System.out.print("hello");
     }
 }
