@@ -31,8 +31,31 @@ public class DataTyoeDemo {
 //        k= (float) 6.0;
 //        l= (float) 4.9;
 //        System.out.println(k-l);
-        boolean b1 = true;
+
+        /*boolean b1 = true;
         boolean b2 = false;
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println('2'+'2');//char类型转化首先把char类型转换成int再计算
+        System.out.println('2'+2);
+        */
+        int a = 250;
+        long b = a;
+        int c = (int) b;
+        long d = 250;
+        float e = 250;
+        System.out.println(e);
+        long f = 10000000000L;
+        int g = (int) f;
+        System.out.println(g);
+        float h = (float) 25.98;
+        int i = (int) h;
+        System.out.println(i);
+        byte b1 = 5;
+        byte b2 = 6;
+        byte b3 = (byte)(b1 + b2);
+        System.out.println(b3);
+
 
     }
 }
