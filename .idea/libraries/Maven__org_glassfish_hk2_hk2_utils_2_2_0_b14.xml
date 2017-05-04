@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.glassfish.hk2:hk2-utils:2.2.0-b14">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.m2/repository/org/glassfish/hk2/hk2-utils/2.2.0-b14/hk2-utils-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.2.0-b14/hk2-utils-2.2.0-b14.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.m2/repository/org/glassfish/hk2/hk2-utils/2.2.0-b14/hk2-utils-2.2.0-b14-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.2.0-b14/hk2-utils-2.2.0-b14-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.m2/repository/org/glassfish/hk2/hk2-utils/2.2.0-b14/hk2-utils-2.2.0-b14-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.2.0-b14/hk2-utils-2.2.0-b14-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -38,7 +38,7 @@ public class DataTyoeDemo {
         System.out.println(b2);
         System.out.println('2'+'2');//char类型转化首先把char类型转换成int再计算
         System.out.println('2'+2);
-        */
+
         int a = 250;
         long b = a;
         int c = (int) b;
@@ -55,7 +55,7 @@ public class DataTyoeDemo {
         byte b2 = 6;
         byte b3 = (byte)(b1 + b2);
         System.out.println(b3);
-
+ */
 
     }
 }
