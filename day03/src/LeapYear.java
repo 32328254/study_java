@@ -9,10 +9,12 @@ public class LeapYear {
         int year = scan.nextInt();
         System.out.println("you input year is :"+year);
         //调用ScoreLevel类
+       /*
         ScoreLevel a = new ScoreLevel();
         a.Score();
         CommandBySwitch b = new CommandBySwitch();
         b.command();
+        */
     }
 }
 class ScoreLevel {
