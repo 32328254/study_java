@@ -11,5 +11,13 @@ public class Age {
         System.out.print("please input age: ");
         int age = scan.nextInt();
         System.out.println("you age is: "+age);
+
+        /*三目
+
+        int a=5,b=8;
+        int max = a > b ? 1:2;
+        System.out.println("three mu is :"+max);
+             * */
+        
     }
 }
