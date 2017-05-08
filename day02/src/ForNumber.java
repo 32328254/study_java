@@ -5,7 +5,6 @@ public class ForNumber {
     public static void main(String[] args){
         for (int i=0;i<=11;i++){
             System.out.print("/data"+i+"/hadoop/tmp"+",");
-
         }
         System.out.println();
         for (int j=0;j<=11;j++){
@@ -30,7 +29,6 @@ public class ForNumber {
         System.out.println();
         for (int c=0;c<=11;c++){
             System.out.print("'/data"+c+"',");
-
         }
     }
 }
