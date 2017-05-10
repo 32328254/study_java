@@ -2,7 +2,7 @@ import javafx.scene.control.SortEvent;
 
 import java.util.Scanner;
 
-/**
+/*
  * Created by liu on 10/05/2017.
  */
 public class Score {
