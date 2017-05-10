@@ -21,6 +21,7 @@ public class Score {
             System.out.println("Score is D,pass");
         }else {
             System.out.println("not pass,you are lowers");
+
         }
     }
 }
