@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/**
+/*
  * Created by liuhaoran1 on 2017/5/10.
  */
 public class MySwitch {
