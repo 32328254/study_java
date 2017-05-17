@@ -18,7 +18,5 @@ public class SumMolecules {
         catch (Exception e){
             System.out.println(e+" invalid input!");
         }
-
-
     }
 }
