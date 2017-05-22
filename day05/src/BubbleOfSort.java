@@ -1,6 +1,7 @@
 /*
  * Created by liu on 21/05/2017.
  */
+//冒泡排序
 public class BubbleOfSort {
     public static void main(String[] args) {
         int[] a = new int[100000];
