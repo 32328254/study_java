@@ -13,7 +13,7 @@ public class Cell {
     public void moveLeft(int n){ //左移方法
         col -= n;
     }
-    String getCellInfo(){   //获取行列
+    public String getCellInfo(){   //获取行列
         return row+","+col;
     }
 }
